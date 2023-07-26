@@ -4,4 +4,4 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Here's my projects:
+{% include preview.html %}
