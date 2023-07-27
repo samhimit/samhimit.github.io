@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
+title:  "Tetris Redesign"
+summary: "Personal Project"
+date:   2022-09-08 15:39:40
 preview: /assets/postpreview.png
 ---
 

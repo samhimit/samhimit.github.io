@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Older Game"
-summary: "Associate Technical Designer"
-date:   2022-09-07 15:39:40
+title:  "Animal Antics"
+summary: "Gameplay Engineer"
+date:   2022-09-08 15:39:40
 preview: /assets/postpreview.png
 ---
 

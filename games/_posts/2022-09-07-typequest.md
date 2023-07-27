@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
+title:  "Type Quest"
+summary: "Network and Gameplay Engineer"
+date:   2022-08-08 15:39:40
 preview: /assets/postpreview.png
 ---
 

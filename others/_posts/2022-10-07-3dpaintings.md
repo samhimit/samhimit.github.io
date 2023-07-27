@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
+title:  "3D Printed Paintings"
+summary: "Personal Project"
 date:   2022-10-07 15:39:40
 preview: /assets/postpreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
 
-Put down info here, either in bullets or paragraphs.
+I 3D printed a picture coolio.
