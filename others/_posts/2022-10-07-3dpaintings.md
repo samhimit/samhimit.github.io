@@ -8,8 +8,8 @@ preview: /assets/paintingpreview.png
 
 <center>
 <iframe
-    width="640"
-    height="480"
+    width="800"
+    height="450"
     src="https://www.youtube.com/embed/tWOLfInf2RU"
     frameborder="0"
     allow="autoplay; encrypted-media"
@@ -19,9 +19,14 @@ preview: /assets/paintingpreview.png
 </center>
 
 
+
 3D Printed Paintings started in USC's chapter of [3D4E](3d4e.org) and continued as a personal project. It's primary goal is to transform 2D images into 3D models that can then printed. The source code can be found [here](https://github.com/samhimit/3d-printed-paintings)
 
+***
+
 ## Process
+
+To create a 3D model from a 2D image I employed [numpy-stl](https://pypi.org/project/numpy-stl/). The image is first converted into grayscale, then each pixel's grayscale value is mapped to the height of the point in the 3D model.
 
 ## Iteration
 
@@ -30,3 +35,13 @@ The initial program created 3D models that were spiky and difficult to print due
 ## Results
 
 ![3D Printed Pokemon](/assets/paintings.png)
+
+Various Pokemon with pixel variation.
+
+![Van Gogh Self Portrait](/assets/painting2.png)
+
+Van Gogh portrait using a blur and other post processing mounted in a frame.
+
+![Mona Lisa](/assets/painting3.png)
+
+Initial test print with an early version of the program of the Mona Lisa.
