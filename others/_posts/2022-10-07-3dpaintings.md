@@ -38,10 +38,10 @@ The initial program created 3D models that were spiky and difficult to print due
 
 Various Pokemon with pixel variation.
 
-![Van Gogh Self Portrait](/assets/painting2.png)
+![Van Gogh Self Portrait](/assets/painting2.jpg)
 
 Van Gogh portrait using a blur and other post processing mounted in a frame.
 
-![Mona Lisa](/assets/painting3.png)
+![Mona Lisa](/assets/painting3.jpg)
 
 Initial test print with an early version of the program of the Mona Lisa.
