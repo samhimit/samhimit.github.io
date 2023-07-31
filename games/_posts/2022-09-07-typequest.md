@@ -10,7 +10,9 @@ Type Quest is a multiplayer typing game developed by a team of seven. Play with 
 
 For the front end we utilized Unity and created a custom Java server as the backend. I worked primarily on the networked aspects of the game defining the packets we would use as well as writing the front end server connection code.
 
-# For this project I implemented:
+***
+
+### For this project I implemented:
 * Typing based attack system
 * Animation system for characters and a boss
 * .NET socket system to communicate with Java sever

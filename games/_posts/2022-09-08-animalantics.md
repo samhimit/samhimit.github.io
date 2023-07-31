@@ -14,7 +14,7 @@ Animal Antics was made in three days during USC MEGA's Newbies and Vets Game Jam
 
 ***
 
-# For this project I implemented:
+### For this project I implemented:
 * A scriptable object system for interactable objects
 * A scene transition system to navigate between 5 distinct rooms
 * Music and Audio management

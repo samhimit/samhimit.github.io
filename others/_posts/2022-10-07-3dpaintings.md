@@ -32,6 +32,8 @@ To create a 3D model from a 2D image I employed [numpy-stl](https://pypi.org/pro
 
 The initial program created 3D models that were spiky and difficult to print due to the possible high difference in grayscale values in a picture, along with each pixel only being assigned one point. The first solution to solve this issue was to apply a blur over the image before converting it into a model which made the images easier to print but lost detail and recognizability. The solution that produced the best reults was giving each pixel of the source image a face instead of a point. This makes the art much more recognizable and introduces a pixel art style that works really well with the Pokemon that were printed.
 
+***
+
 ## Results
 
 ![3D Printed Pokemon](/assets/paintings.png)
