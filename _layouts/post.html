@@ -12,11 +12,15 @@ layout: default
   </article>
 
   <div class="post-nav">
-    {% if page.next.url %}
-      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
+    {% if page.categories == games %}
+      <a class="nav-item" href="https://samhimitra.com/">&laquo; Back</a>
     {% endif %}
-    {% if page.previous.url %}
-      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a>
+    {% if page.categories == others %}
+      <a class="nav-item" href="https://samhimitra.com/projects">&laquo; Back</a>
     {% endif %}
+    {% if page.categories == sound %}
+      <a class="nav-item" href="https://samhimitra.com/sound">&laquo; Back</a>
+    {% endif %}
+
   </div>
 </div>
