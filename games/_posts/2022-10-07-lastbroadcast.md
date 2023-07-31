@@ -6,6 +6,8 @@ date:   2022-10-07 15:39:40
 preview: /assets/lbpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![LB](/assets/lb.png)
 
-Put down info here, either in bullets or paragraphs.
+[Last Broadcast](https://store.steampowered.com/app/2508870/Last_Broadcast/) is a 3D narrative game set in a small radio station at the end of the world. Players assume the role of D-Jay, a charismatic radio host who is giving their last show as the sun turns red and the world burns down.
+
+
