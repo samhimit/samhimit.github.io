@@ -20,7 +20,7 @@ preview: /assets/paintingpreview.png
 
 
 
-3D Printed Paintings started in USC's chapter of [3D4E](3d4e.org) and continued as a personal project. It's primary goal is to transform 2D images into 3D models that can then printed. The source code can be found [here](https://github.com/samhimit/3d-printed-paintings)
+3D Printed Paintings started in USC's chapter of [3D4E](3d4e.org) and continued as a personal project. It's primary goal is to transform 2D images into 3D models that can then printed. The source code can be found [here](https://github.com/samhimit/3d-printed-paintings).
 
 ***
 
