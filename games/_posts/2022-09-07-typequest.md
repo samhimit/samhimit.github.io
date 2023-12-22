@@ -2,7 +2,7 @@
 layout: post
 title:  "Type Quest"
 summary: "Network and Gameplay Engineer"
-date:   2022-08-08 15:39:40
+date:   2022-10-08 15:39:40
 preview: /assets/tqpreview.png
 ---
 

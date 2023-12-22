@@ -2,7 +2,7 @@
 layout: post
 title:  "Animal Antics"
 summary: "Gameplay Engineer"
-date:   2022-09-08 15:39:40
+date:   2022-12-08 15:39:40
 preview: /assets/animalpreview.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tetris Redesign"
 summary: "Technical Sound Designer"
-date:   2022-09-08 15:39:40
+date:   2022-12-01 15:39:40
 preview: /assets/tetrispreview.png
 ---
 

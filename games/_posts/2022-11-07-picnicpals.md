@@ -1,44 +1,36 @@
 ---
 layout: post
-title:  "Last Broadcast"
-summary: "Audio Engineer"
-date:   2022-10-07 15:39:40
-preview: /assets/lbpreview.png
+title:  "Picnic Pals!"
+summary: "Gameplay Engineer"
+date:   2023-12-01 15:39:40
+preview: /assets/picnicpreview.png
 ---
-
-![LB](/assets/lb.png)
-
-[Last Broadcast](https://store.steampowered.com/app/2508870/Last_Broadcast/) is a 3D narrative game set in a small radio station at the end of the world. Players assume the role of D-Jay, a charismatic radio host who is giving their last show as the sun turns red and the world burns down.
-
-***
-
-### For this project I:
-* Implemented with Wwise:
-  * 1300+ lines of voice over
-  * Dynamic soundscapes
-  * 2 In-engine cutscenes
-  * Player controlled music selector
-  * Additional UI and SFX
-* Cut and cleaned voice over
-* Integrated branching dialogue with Pixel Crushers
-
-
-***
-
-## Dynamic Destruction
-
-In the final scene of the game the radio studio begins to fall apart due to earthquakes. Since our team decided to use in-engine cutscenes I needed to implement a dynamic system for the sound of the destruction. I used a system based off collisions of the various pieces of ceiling and their velocities to create dynamic destruction sounds that felt like they reacted to what was happening on the screen.
 
 <center>
 <iframe
     width="800"
     height="450"
-    src="https://www.youtube.com/embed/fWFRJPdH6z8"
+    src="https://www.youtube.com/embed/TuSjUX9L3v8?si=dF568wfUr1W2jdRH"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
 </iframe>
 </center>
+
+[Picnic Pals!](https://samhi.itch.io/picnic-pals) is a 2D puzzle game where you control three bunnies. Utilize the *entire* keyboard to navigate obstacles and position your pals to solve geometric puzzles to collect all the carrots on screen in 39 unique levels.
+
+***
+
+### For this project I implemented:
+* Unique controls mapping the keyboard to corresponding locations on the screen
+* Various obstacles including worms, bouncers, and walls
+* Collection system tracking which carrots and worms are within the collection area
+* Level and Cutscene management
+
+
+***
+
+## A Movement System Using the Whole Keyboard
 
 
