@@ -2,7 +2,7 @@
 layout: post
 title:  "Brinkmanship"
 summary: "Audio Pipeline Engineer"
-date:   2023-05-06 15:39:40
+date:   2024-05-06 15:39:40
 preview: /assets/picnicpreview.png
 ---
 
