@@ -2,7 +2,7 @@
 layout: post
 title:  "Sorelle"
 summary: "Gameplay Engineer"
-date:   2024-05-01 15:39:40
+date:   2023-05-01 15:39:40
 preview: /assets/picnicpreview.png
 ---
 
