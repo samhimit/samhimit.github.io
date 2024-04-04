@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Picnic Pals!"
+title:  "Sorelle"
 summary: "Gameplay Engineer"
-date:   2023-12-01 15:39:40
+date:   2024-05-01 15:39:40
 preview: /assets/picnicpreview.png
 ---
 
