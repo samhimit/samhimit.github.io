@@ -3,7 +3,7 @@ layout: post
 title:  "Cocktail Fusion"
 summary: "Alt Ctrl Project"
 date:   2024-04-02 15:39:40
-preview: /assets/CocktailFusionSquare.png
+preview: /assets/CocktailFusionSquare2.png
 ---
 
 ![CF](/assets/cocktailkeyart.png)
