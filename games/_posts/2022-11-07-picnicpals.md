@@ -33,7 +33,7 @@ preview: /assets/picnicpreview.png
 
 ## A Movement System Using the Whole Keyboard
 
-Picnic Pals! maps the entire keyboard to the screen, when the player presses a key, the selected bunny moves to the corresponding spot on screen. To do this the list of all inputs are stored in an array and based off the index of the array and the size of the screen the location can be calculated. The player manuever's all three bunnies to attempt to get all the carrots (and none of the worms) inside of their net.
+Picnic Pals! maps the entire keyboard to the screen, when the player presses a key, the selected bunny moves to the corresponding spot on screen. To do this the list of all inputs are stored in an array and based off the index of the array and the size of the screen the location can be calculated. The player manuevers all three bunnies to attempt to get all the carrots (and none of the worms) inside of their net.
 
 <center>
 <iframe
