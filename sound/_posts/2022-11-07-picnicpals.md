@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Picnic Pals!"
-summary: "Gameplay Engineer"
+summary: "Technical Sound Designer"
 date:   2023-12-01 15:39:40
 preview: /assets/picnicpreview.png
 ---
@@ -45,6 +45,8 @@ Picnic Pals! utilizes the whole keyboard for its movement system so it was impor
 >
 </iframe>
 </center>
+
+***
 
 ## Hovering and Collection
 
