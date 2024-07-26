@@ -22,14 +22,23 @@ preview: /assets/brinkmanshipkeyart.png
 
 ***
 
-### For this project I implemented:
-* 
-*
-*
-
+### For this project I created custom tools to:
+* Turn our YarnSpinner database into a spreadsheet to track voice over recording and implementation process
+* Generate tab-delimited files to facilitate easy importing of voice over into Wwise
+* Automate implementation of 1900+ lines of voice over into the game
 
 ***
 
-## A 
+## The Process
 
+As each script was locked, the YarnSpinner file was turned into a spreadsheet. This allowed for easier recording and tracking of the voice over.
 
+![Spreadsheet tracking the status of voice lines](/assets/brinkspreadsheet.png)
+
+After recording was completed and final voice over was delivered, tab-delimited files were generated for each act of the game. These files allowed the voice to be automatically imported into the project with proper naming conventions to allow a script run by YarnSpinner to play the correct voice over. As soon as voice over was importing into Wwise using the tab-delimited files, it was available to be heard in game. This process took about one hour total for the about 1100 lines of voice over included in the game in its initial launch.
+
+![Tab-Delimited File](/assets/brinktlv.png)
+
+With the voice over imported into Wwise, mixing and adjustments were made, helped by the predefined structure the tab-delimited files created, automatically creating busses for individual characters and mixer groups for each conversation. This process also allowed for an additional 900 to be easily added after launch.
+
+![View of the Wwise project](/assets/brinkwwise.png)
