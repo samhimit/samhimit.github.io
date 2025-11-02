@@ -37,6 +37,7 @@ In the final scene of the game the radio studio begins to fall apart due to eart
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>

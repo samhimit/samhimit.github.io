@@ -14,6 +14,7 @@ preview: /assets/picnicpreview.png
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>
@@ -43,6 +44,7 @@ Picnic Pals! maps the entire keyboard to the screen, when the player presses a k
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>

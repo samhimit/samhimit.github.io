@@ -14,6 +14,7 @@ preview: /assets/tetrispreview.png
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>

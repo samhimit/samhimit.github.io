@@ -14,6 +14,7 @@ preview: /assets/picnicpreview.png
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>
@@ -42,6 +43,7 @@ Picnic Pals! utilizes the whole keyboard for its movement system so it was impor
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>
@@ -60,6 +62,7 @@ As the player moves bunnies around the screen and objects enter their net carrot
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>

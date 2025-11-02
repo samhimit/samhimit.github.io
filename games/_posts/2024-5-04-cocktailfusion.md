@@ -12,6 +12,24 @@ Cocktail Fusion is an Alt Ctrl Mixology game! Fill a physical shaker with virtua
 
 ***
 
+### The Game
+In Cocktail Fusion players are able to fill a canister with different colored virtual liquids. They can then shake the canister to mix the colors together to try to match a given order. To facilitate the communication between the tap, canister, and computer I utilized NFC sensors. These sensors allow wireless communication so that the canister is fully wireless object. Since Cocktail Fusion's use case of these sensors was unique needing to send and recieve information I created a simple protocol utilizing FeliCa IDs to allow the canister to pass data to the computer running the game and recieve a notification that the data was recieved.
+
+<center>
+<iframe
+    width="800"
+    height="450"
+    src="https://www.youtube.com/embed/ONODszzQ2ec?si=ZYdnZm03aCz0X4Zx"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
+>
+</iframe>
+</center>
+
+***
+
 ![CF](/assets/cocktail.JPG)
 
 I developed Cocktail Fusion as a capstone project at USC Games. The project combines Arduinos, 3D printing, and Unity to create a unique experience.
@@ -27,20 +45,7 @@ I modeled, printed, and assemble the various parts of Cocktail Fusion in USC's B
 
 ![CF](/assets/partscocktail.JPG)
 
-### The Game
-In Cocktail Fusion players are able to fill a canister with different colored virtual liquids. They can then shake the canister to mix the colors together to try to match a given order. To facilitate the communication between the tap, canister, and computer I utilized NFC sensors. These sensors allow wireless communication so that the canister is fully wireless object. Since Cocktail Fusion's use case of these sensors was unique needing to send and recieve information I created a simple protocol utilizing FeliCa IDs to allow the canister to pass data to the computer running the game and recieve a notification that the data was recieved.
-
-<center>
-<iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/EVyPcJhkxUs?si=rkSscyibZqg409CR"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-</center>
+***
 
 ![CF](/assets/nfccocktail.JPG)
 
