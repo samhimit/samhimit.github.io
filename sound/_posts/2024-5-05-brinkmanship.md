@@ -14,6 +14,7 @@ preview: /assets/brinkmanshipkeyart.png
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>
@@ -40,6 +41,7 @@ In the bridge sequence of the game the player is given the oppurtunity to change
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
 >
 </iframe>
 </center>
